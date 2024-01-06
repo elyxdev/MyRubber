@@ -14,11 +14,11 @@
 <h2>Uso:</h2>
 <li><code>main.py [teclas_a_presionar] [q]</code></li>
 <li>Si se usa el parámetro <code>q</code> no se imprimirá nada en la pantalla.</li>
-<li>Si no se provee un archivo de teclas a presionar se usará el archivo <a href="https://github.com/yos-rg/MyRubber/blob/main/keys.txt">keys.txt</a></li>
+<li>Si no se provee un archivo de teclas a presionar se usará el archivo <a href="https://github.com/yos-rg/MyRubber/blob/master/keys.txt">keys.txt</a></li>
 <br/>
 <li>Los comandos validos son los siguientes</li>
 <img src="https://i.ibb.co/FbVDcxg/Captura.png"/>
-<li>Puedes compilar el script con el archivo <a href="https://github.com/yos-rg/MyRubber/blob/main/build.py">build.py</a></li>
+<li>Puedes compilar el script con el archivo <a href="https://github.com/yos-rg/MyRubber/blob/master/build.py">build.py</a></li>
 <li>Comandos especiales:<br/><br/>
 <strong>\mv x y</strong> (mueve el cursor al pixel x & y) <br/><br/>
 <strong>\sleep x</strong> (espera durante x segundos) <br/><br/>
